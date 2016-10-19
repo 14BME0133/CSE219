@@ -17,5 +17,3 @@
 * CSE219
   - C++
   - Core Java
-
-- 
